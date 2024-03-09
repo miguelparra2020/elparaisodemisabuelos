@@ -1,85 +1,94 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Acerca",
       "url": "/about"
     },
     {
-      "name": "Blog",
+      "name": "Multimedia",
       "url": "/blog"
     },
     {
-      "name": "Features",
-      "url": "/features"
-    },
-    {
-      "name": "How It Works",
-      "url": "/how-it-works"
-    },
-    {
-      "name": "Pages",
+      "name": "Cabañas y servicios",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Career",
+          "name": "Cabaña Alpina Familiar",
           "url": "/career"
         },
 
         {
-          "name": "Integrations",
+          "name": "Cabaña Ármos",
           "url": "/integrations"
         },
 
         {
-          "name": "Pricing",
+          "name": "Camping 1",
           "url": "/pricing"
         },
         {
-          "name": "Sign In",
+          "name": "Camping 2",
           "url": "/signin"
         },
 
         {
-          "name": "Elements",
+          "name": "Camping 3",
           "url": "/elements"
         },
         {
-          "name": "Changelog",
+          "name": "Camping 4",
           "url": "/changelog"
         },
         {
-          "name": "Terms And Conditions",
+          "name": "Camping 5",
+          "url": "/elements"
+        },
+        {
+          "name": "Camping 6",
+          "url": "/changelog"
+        },
+        {
+          "name": "Servicio de adornos para fechas especiales",
+          "url": "/changelog"
+        },
+        {
+          "name": "Servicio de restaurante",
+          "url": "/changelog"
+        },
+        {
+          "name": "Servicio de transporte",
+          "url": "/changelog"
+        },
+        {
+          "name": "Terminos y condiciones",
           "url": "/terms-and-conditions"
         }
       ]
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
     }
+    
   ],
 
   "footer": [
     {
-      "name": "About",
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Acerca",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contactar",
       "url": "/contact"
     },
     {
-      "name": "Elements",
+      "name": "Multimedia",
       "url": "/elements"
-    },
-    {
-      "name": "Changelog",
-      "url": "/changelog"
     }
   ]
 }

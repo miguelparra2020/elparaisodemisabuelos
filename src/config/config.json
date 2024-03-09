@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "El paraiso de mis abuelos",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "base_url": "https://elparaisodemisabuelos.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -22,7 +22,7 @@
     "description": "Servicio de alojamiento en cabañas y campings",
     "button": {
       "label": "Contactanos",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "link": "https://elparaisodemisabuelos.vercel.app"
     }
   },
 
