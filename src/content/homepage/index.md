@@ -73,7 +73,7 @@ service:
       description: Alojamiento de un día para otro,
         👉🏻precio $80.000 (por pareja)
       video:
-        thumbnail: "/images/intro-thumbnail.png"
+        thumbnail: "/images/cabanascamping.png"
         video_id: "g3-VxLQO7do"
       list:
         - Parqueadero 🚘
@@ -87,7 +87,7 @@ service:
       description: Alojamiento de un día para otro,
         👉🏻precio $30.000 (por pareja)
       video:
-        thumbnail: "/images/intro-thumbnail.png"
+        thumbnail: "/images/carpascamping.png"
         video_id: "g3-VxLQO7do"
       list:
         - Parqueadero 🚘
@@ -101,7 +101,7 @@ service:
     - title: Decoración para fechas especiales
       description: Depende de lo que deseas tener en la decoración
       video:
-        thumbnail: "/images/intro-thumbnail.png"
+        thumbnail: "/images/decoraciones.png"
         video_id: "g3-VxLQO7do"
       list:
         - Arreglos florales
