@@ -1,80 +1,89 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Bienvenidos al paraiso de mis abuelos"
+  content: "Ven a disfrutar de nuestros acogedores alojamientos, sumérgete en la naturaleza, libera tu mente y comparte momentos especiales con tus seres queridos."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Acerca de nosotros
+    link: "/about"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Nuestros servicios"
+  description:
   feature_list:
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - icon: "home" #icon package react-feather-icon [https://feathericons.com/]
+      title: Alojamiento en
+      content: Cabaña familiar o cabaña para pareja, zona de camping con preciosas minicabañas para pasar la noche en pareja, con espacio de aseo compartido.
+    - icon: "gift" #icon package react-feather-icon [https://feathericons.com/]
+      title: Adornos para fechas especiales
+      content: Para regalar un momento inolvidable a su pareja.
+    - icon: "smile" #icon package react-feather-icon [https://feathericons.com/]
+      title: Servicio de restaurante
+      content: Ofrecemos los platos tipicos de la región con sazón de la finca.
 
 #service
 service:
-  homepage_tab:
-    title: Prevent failure from to impacting your reputation
-    description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
-    tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
-          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
-          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
-
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-      image: "/images/collaboration.png"
+    - title: Cabaña Alpina
+      description: Alojamiento de un día para otro,
+        👉🏻precio $250.000 (por pareja)
+        👉🏻Precio familiar $300.000 (hasta 5 personas)
+
+      video:
+        thumbnail: "/images/cabanaalpina.jpg"
+        video_id: "g3-VxLQO7do"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - Jacuzzi hidromasaje agua caliente 🛀
+        - Ducha con agua caliente 🚿
+        - Leña para fogata con masmelos y gomitas
+        - Comedor al aire libre
+        - Nevera minibar
+        - Parlante 🎙️🎶
+        - Parqueadero 🚘
+        - Cocinita
+        - Senderos directo al río
+        - Miradores
+
+      button:
+        label: Reservar 📅
+        link: "#"
+        enable: true
+
+    - title: Cabaña Ármos
+      description: Alojamiento de un día para otro,
+        👉🏻precio $230.000 (por pareja, hasta 3 personas)
+      video:
+        thumbnail: "/images/cabanaarmos.png"
+        video_id: "g3-VxLQO7do"
+      list:
+        - Hermoso jaccuzi hidromasaje en piedra artesanal 🛀
+        - Leña para fogata con masmelos y gomitas
+        - Parlante 🎙️🎶
+        - Parqueadero 🚘
+        - Senderos directo al río
+        - Hermoso mirador para ver las estrellas
+      button:
+        label: Reservar 📅
+        link: "#"
+        enable: true
+
+    - title: Cabañas Camping
+      description: Alojamiento de un día para otro,
+        👉🏻precio $80.000 (por pareja)
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
+      list:
+        - Hermoso jaccuzi hidromasaje en piedra artesanal 🛀
+        - Leña para fogata con masmelos y gomitas
+        - Parlante 🎙️🎶
+        - Parqueadero 🚘
+        - Senderos directo al río
+        - Hermoso mirador para ver las estrellas
       button:
-        label: Know About Us
+        label: Reservar 📅
         link: "#"
         enable: true
 

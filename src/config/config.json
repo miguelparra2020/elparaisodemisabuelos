@@ -33,11 +33,10 @@
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
-    "contact_form_action": "#",
+    "footer_description": "Deseamos acoger a todos los visitantes del sitio, con el mejor cariño y la mejor atención, para que disfruten de un hermoso lugar lleno de paz y naturaleza.",
+    "location": "Chaquiro Dosquebradas",
+    "phone": "📲+57 3157231787 📲+34 624439522",
+    "contact_form_action": "/hola",
     "copyright": "Copyright © 2024 Miguel Páez"
   },
 

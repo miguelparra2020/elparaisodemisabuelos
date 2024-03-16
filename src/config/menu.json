@@ -28,40 +28,19 @@
         },
 
         {
-          "name": "Camping 1",
+          "name": "Cabañas Camping",
           "url": "/pricing"
         },
         {
-          "name": "Camping 2",
+          "name": "Carpas Camping",
           "url": "/signin"
         },
-
         {
-          "name": "Camping 3",
-          "url": "/elements"
-        },
-        {
-          "name": "Camping 4",
-          "url": "/changelog"
-        },
-        {
-          "name": "Camping 5",
-          "url": "/elements"
-        },
-        {
-          "name": "Camping 6",
-          "url": "/changelog"
-        },
-        {
-          "name": "Servicio de adornos para fechas especiales",
+          "name": "Decoración para fechas especiales",
           "url": "/changelog"
         },
         {
           "name": "Servicio de restaurante",
-          "url": "/changelog"
-        },
-        {
-          "name": "Servicio de transporte",
           "url": "/changelog"
         },
         {
