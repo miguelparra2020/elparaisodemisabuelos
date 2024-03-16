@@ -17,7 +17,7 @@ key_features:
       title: Alojamiento en
       content: Cabaña familiar o cabaña para pareja, zona de camping con preciosas minicabañas para pasar la noche en pareja, con espacio de aseo compartido.
     - icon: "gift" #icon package react-feather-icon [https://feathericons.com/]
-      title: Adornos para fechas especiales
+      title: Decoración para fechas especiales
       content: Para regalar un momento inolvidable a su pareja.
     - icon: "smile" #icon package react-feather-icon [https://feathericons.com/]
       title: Servicio de restaurante
@@ -76,14 +76,41 @@ service:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
       list:
-        - Hermoso jaccuzi hidromasaje en piedra artesanal 🛀
-        - Leña para fogata con masmelos y gomitas
-        - Parlante 🎙️🎶
         - Parqueadero 🚘
         - Senderos directo al río
-        - Hermoso mirador para ver las estrellas
+        - Baño compartido en zona de camping 🛀
       button:
         label: Reservar 📅
+        link: "#"
+        enable: true
+    - title: Carpas Camping
+      description: Alojamiento de un día para otro,
+        👉🏻precio $30.000 (por pareja)
+      video:
+        thumbnail: "/images/intro-thumbnail.png"
+        video_id: "g3-VxLQO7do"
+      list:
+        - Parqueadero 🚘
+        - Senderos directo al río
+        - Baño compartido en zona de camping 🛀
+      button:
+        label: Reservar 📅
+        link: "#"
+        enable: true
+
+    - title: Decoración para fechas especiales
+      description: Depende de lo que deseas tener en la decoración
+      video:
+        thumbnail: "/images/intro-thumbnail.png"
+        video_id: "g3-VxLQO7do"
+      list:
+        - Arreglos florales
+        - Globos
+        - Vinos ó licores
+        - Entre otras decoraciones que desee
+        - Planificación y costeo según lo que deseas hacerle a la pareja
+      button:
+        label: Cotizar 📲
         link: "#"
         enable: true
 

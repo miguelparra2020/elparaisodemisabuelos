@@ -1,41 +1,35 @@
 ---
-title: "Terms & Condition Of Pinwheel"
-excerpt: Donec sollicitudin molestie malesda. Donec sollitudin molestie male <br /> suada Mauris pellentesque nec egestas non nisi Cras
+title: "Términos y Condiciones de Uso"
+excerpt: Bienvenido a elparaisodemisabuelos.com (en adelante, "el Sitio"). Al acceder y utilizar nuestro sitio web, aceptas estar sujeto a los siguientes términos y condiciones de uso. Si no estás de acuerdo con alguna parte de estos términos, por favor, no utilices nuestro sitio.
 draft: false
 ---
+### 1. Transparencia y Protección de Datos
 
-### 1. Definitions
+Nos comprometemos a garantizar la transparencia en todas nuestras operaciones y a proteger los datos personales de nuestros usuarios. Todos los datos proporcionados por los usuarios serán tratados de acuerdo con nuestra Política de Privacidad.
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+### 2. Reserva y Pagos
 
-### 2. General Terms
+Al realizar una reserva en el Sitio, aceptas pagar el 30% del valor total del servicio como depósito. Este depósito garantiza tu reserva y se considera no reembolsable, ya que al reservar se bloquea la posibilidad de alquilar a otras personas. El pago restante se realizará en el momento del check-in.
 
-#### Service Provided AS IS
+### 3. Servicios Ofrecidos
 
-The Service is provided for free during this pilot project, and is provided "as is" with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+El Sitio ofrece servicios de alquiler de cabañas, campings, restaurante y decoraciones. Nos esforzamos por proporcionar descripciones precisas y actualizadas de nuestros servicios, pero no garantizamos la disponibilidad en todo momento. Nos reservamos el derecho de modificar o cancelar reservas en caso de fuerza mayor o circunstancias imprevistas.
 
-#### Interoperation with Slack
+### 4. Uso Aceptable
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+Al utilizar nuestro Sitio, te comprometes a no realizar ningún uso indebido, abuso o intento de acceso no autorizado. Nos reservamos el derecho de restringir tu acceso si consideramos que estás violando estos términos y condiciones.
 
-#### Company Liability
+### 5. Modificaciones
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+Nos reservamos el derecho de actualizar, modificar o cambiar estos términos y condiciones en cualquier momento sin previo aviso. Se te notificará cualquier cambio significativo mediante una notificación en nuestro Sitio.
 
-### 4. Rules of Use
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+Entendido, aquí está la sección actualizada para incluir la información sobre la falta de seguros médicos en el sitio físico:
 
-#### You must not
+### 6. Responsabilidad y Seguridad
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+En el Sitio físico, no contamos con seguros de asistencia médica. Por lo tanto, todos los usuarios y visitantes son responsables de su propia seguridad y bienestar durante su estancia. Se les recomienda encarecidamente que tomen las precauciones necesarias y se autoprotejan en todo momento.
 
-### 5. Intellectual Property Rights
+### 7. Limitación de Responsabilidad
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Nos esforzamos por proporcionar un ambiente seguro y acogedor en nuestro sitio, pero no nos hacemos responsables de lesiones, daños o pérdidas personales que puedan ocurrir durante tu estancia. Al visitar nuestro sitio, aceptas que lo haces bajo tu propio riesgo y liberarás a el paraiso de mis abuelos  de cualquier responsabilidad en caso de incidentes.
