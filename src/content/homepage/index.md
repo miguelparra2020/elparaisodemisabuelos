@@ -113,55 +113,48 @@ service:
         label: Cotizar 📲
         link: "#"
         enable: true
+    
+    - title: Servicio de restaurante
+      description: Los invitamos a disfrutar de la comida tipica hecha en la finca y a fogón.
+      video:
+        thumbnail: "/images/comida.PNG"
+        video_id: "g3-VxLQO7do"
+      list:
+        - Almuerzos
+        - Desayunos
+        - Cenas
+        - Bebidas
+      button:
+        label: Cotizar
+        link: "#"
+        enable: true
 
-#testimonial
-testimonial:
-  title: Our customers have nice things to say about us
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
-  testimonial_list:
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-6.png"
-      organization: meta limited
-      rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-2.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-3.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-4.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-1.png"
-      organization: meta limited
-      rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
-    - author: David Cameron
-      avatar: "/images/users/user-5.png"
-      organization: meta limited
-      rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+    - title: Puedes hacer muchas cosas en la finca
+      description: Los invitamos a disfrutar de la narutaleza y los animales, que pases momentos inolvidables.
+      video:
+        thumbnail: "/images/finca.png"
+        video_id: "g3-VxLQO7do"
+      list:
+        - Sendero ecólogico con cascada y riachuelo para bañar 🏊‍♀️
+        - Estadía en toda la finca, andar y conocer el lugar
+        - Acercamiento con los animales de la finca 🏕🐄🐥
+      button:
+        label: Ver más...
+        link: "#"
+        enable: true
+
+    - title: ¿Cómo llegar a la finca el paraiso de mis abuelos
+      description: Puedes ver el vídeo y guiarse por la ubicación de google maps, también estaremos al pendiente guiandote en el camino.
+      video:
+        thumbnail: "/images/ubicacion.png"
+        video_id: "g3-VxLQO7do"
+      list:
+        - Sendero ecólogico con cascada y riachuelo para bañar 🏊‍♀️
+        - Estadía en toda la finca, andar y conocer el lugar
+        - Contacto 1 -> 📲 +57 3157231787 
+        - Contacto 2 -> 📲 +34 624439522
+      button:
+        label: Mapa 🗺
+        link: "#"
+        enable: true
 ---

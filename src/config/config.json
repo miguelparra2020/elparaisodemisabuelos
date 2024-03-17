@@ -28,7 +28,7 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "el paraiso de mis abuelos",
     "settings": {}
   },
 
@@ -42,7 +42,7 @@
 
   "metadata": {
     "meta_author": "Miguel Páez",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/images/logo.png",
     "meta_description": "El paraiso de mis abuelos"
   }
 }

@@ -1,86 +1,59 @@
 ---
-title: "About"
-page_title: "About our company"
-buttons:
-  - label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
-  - label: Learn More
-    link: "#"
-    outline: true
-    enable: true
+title: "Acerca"
+page_title: "El paraiso de mis abuelos"
+
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
+  - name: "Servicios"
+    number: 5
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
+  - name: "Clientes"
     number: 440
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
+  - name: "Comidas tipicas"
+    number: 3
     messurment: K
     color: "#FE6019"
-  - name: "Customers"
-    number: 20
+  - name: "Cosas por hacer"
+    number: 10
     messurment: K
     color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: Los esperamos con los brazos abiertos 👨‍👨‍👧‍👦🐄🐥
   images:
-    - "/images/about/gallery-img-1.png"
-    - "/images/about/gallery-img-3.png"
-    - "/images/about/gallery-img-2.png"
-
-## our works
-features:
-  title: The six core work <br /> drive everything do
-  button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
-  features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    
+    - "/images/imagen4.png"
+    - "/images/imagen2.png"
 
 ## members
 members:
-  title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  title: Nosotros 
+  description: Somos un grupo familiar con el proposito de brindarle a nuestros visitantes una grata experiencia y acogimiento, que sientan lo lindo que es la vida en la finca.
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Facundo
+      field: El abuelo
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Martuchis
+      field: La abuela
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: John Aguirre
+      field: El papá
       image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
+    - name: Gabriela Aguirre
+      field: La nieta
       image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
+    - name: Julian Páez
+      field: El conyuge de la nieta
       image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
+    - name: Miguel Páez
+      field: El desarrollador de software
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+
+Queremos dar la más cordial bienvenida a todos los visitantes del sitio, brindándoles un cálido recibimiento y una atención excepcional, para que puedan sumergirse en la belleza y tranquilidad de este lugar lleno de paz y naturaleza.
+
+Aquí, aquellos que nos visitan tienen la oportunidad de desconectar de la tecnología y el estrés de la ciudad, y en su lugar, disfrutar del canto de las aves, el murmullo del agua y la alegría que llena el alma al interactuar con los animales y la naturaleza.
