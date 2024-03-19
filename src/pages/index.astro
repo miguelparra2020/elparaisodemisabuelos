@@ -20,7 +20,23 @@ const page_data = {
   ...about.data,
   content: about.body,
 };
+
 ---
+<style>
+  /* Estilos para el botón de WhatsApp */
+  .btnWhasap {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    border: none; 
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  .btnWhasap:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);    
+  }
+</style>
 
 <Base>
   <!-- banner -->
@@ -45,4 +61,10 @@ const page_data = {
     </div>
   </section>
   <Cta />
+  
 </Base>
+<div>
+  <a target="_blank" href="https://wa.me/34624439522?text=Hola%20cordial%20saludo,%20me%20comunico%20desde%20la%20p%C3%A1gina%20de%20elparaisodemisabuelos.com%20%0A%22Deseo%20hablar%20con%20alguien,%20para%20una%20asesor%C3%ADa%20personalizada%22" class="btnWhasap">
+    <img src="/images/whatsapp.png" width="50" height="50" />
+  </a>
+</div>
