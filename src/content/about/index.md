@@ -34,22 +34,22 @@ members:
   title: Nosotros 
   description: Somos un grupo familiar con el proposito de brindarle a nuestros visitantes una grata experiencia y acogimiento, que sientan lo lindo que es la vida en la finca.
   member_list:
-    - name: Facundo
+    - name: Jacinto
       field: El abuelo
       image: "/images/users/user-1.png"
-    - name: Martuchis
+    - name: Consuelo
       field: La abuela
       image: "/images/users/user-2.png"
-    - name: John Aguirre
+    - name: John
       field: El papá
       image: "/images/users/user-3.png"
-    - name: Gabriela Aguirre
+    - name: Gabriela
       field: La nieta
       image: "/images/users/user-1.png"
-    - name: Julian Páez
+    - name: Julián
       field: El conyuge de la nieta
       image: "/images/users/user-2.png"
-    - name: Miguel Páez
+    - name: Miguel
       field: El desarrollador de software
       image: "/images/users/user-3.png"
 ---
